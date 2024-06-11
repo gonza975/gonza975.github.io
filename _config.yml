@@ -100,15 +100,15 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: left
+        title: Texas Instruments
+        sub_title: Validation Engineering Intern
+        caption: May 2024- present
+        link: https://www.ti.com/about-ti/company/overview.html
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Test Integrated Circuits with analog instrumentation and python programs
   
   - title: A Little More About Me
     layout: text
