@@ -95,13 +95,21 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
         ***TECHNICAL SKILLS***
+
         **Instrumentation:** Oscilloscope, Function generators, Digital and Analog power supplies
+
         **Circuit Analysis and Design:** Circuit troubleshooting, Operational Amplifiers, Transistors, Soldering, 3-phase power
+
         **Programming Languages:** Python(Intermediate), C++(Intermediate), Verilog(Intermediate)
+
         **Software Knowledge:** MATLAB, PSPICE, Xilinx Vivado, Simulink, Microsoft Office (Word, Power Point, and Excel)
+
         **Control Systems:** PID controllers
-        **Electromagnetics:** Electromagnetic field analysis**
+
+        **Electromagnetics:** Electromagnetic field analysis
+
         **Automation:** Programmable Logic Controllers(Allen-Bradley, Micrologix 1400), Pneumatic Control Systems(Festo)
+        
         **Languages:** English(Fluent), Spanish(Native), Japanese(Fluent)
 
 # Footer
