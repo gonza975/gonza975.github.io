@@ -53,8 +53,8 @@ additional_links:
 about_profile_image: images/ProfilePicture.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Rafael and I am a senior in Electrical Engineering with a minor in Computer Science. Since I took a basic circuits class in middle school I have been fascinated with
-  anything related to electronics. Programming is also something I enjoy, especially because the first cricuits I ever built used an Arduino microcontroller, use c++ programs to work. 
-  Currently, I am a Validation Engineering Intern and I couldn't be happier because it is a micture of circuits and programming.
+  anything related to electronics. Programming is also something I enjoy, especially because the first cricuits I ever built used an Arduino microcontroller, which runs c++ programs. 
+  Currently, I am a Validation Engineering Intern and I couldn't be happier because it is a mixture of circuits and programming.
 #Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
 #You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
