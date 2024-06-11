@@ -69,8 +69,7 @@ content:
     content:
       - layout: top-left
         title: Michigan State University
-        sub_title: Bachelor of Science, Electrical Engineering
-        Minor in Computer Science
+        sub_title: Bachelor of Science, Electrical Engineering, Minor in Computer Science
         caption: 2021-2025
         quote: >
           Short institution or course description (optional)
