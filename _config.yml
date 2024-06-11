@@ -64,10 +64,10 @@ about_content: | # this will include new lines to allow paragraphs
 #- Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-- title: Education
+  - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: top-right
         title: Michigan State University
         sub_title: Bachelor of Science, Electrical Engineering, Minor in Computer Science
         caption: 2021-2025
@@ -107,6 +107,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
