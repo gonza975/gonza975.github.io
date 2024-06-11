@@ -67,10 +67,10 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Michigan State University
-        sub_title: Bachelor of Science, Electrical Engineering, Minor in Computer Science
-        caption: 2021-2025
+      - layout: top-left
+        title: Michigan State University, College of Engineering                                                GPA: 3.94
+        sub_title: Bachelor of Science, Electrical Engineering, Minor in Computer Science                       2021-2025
+        caption: Recipient of Dean's list for 6 consecutive semesters
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
