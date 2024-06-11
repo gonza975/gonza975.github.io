@@ -69,11 +69,12 @@ content:
     content:
       - layout: left
         title: Michigan State University
-        sub_title: Bachelor of Science, Electrical Engineering, Minor in Computer Science
-        caption: 2021-2025
+        sub_title: | 
+          Electrical Engineering
+          Minor in Computer Science
         caption: Recipient of Dean's list for 6 consecutive semesters
-#quote: >
-#Short institution or course description (optional)
+        quote: >
+        2021-2025
 #description: | # this will include new lines to allow paragraphs
 #Description of qualification
   - title: Projects # Title for the section
