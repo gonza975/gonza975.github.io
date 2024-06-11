@@ -74,9 +74,9 @@ content:
           Minor in Computer Science
         caption: 2021-2025
         quote: >
-                      2021-2025
+          -------------------------------------------2021-2025
         description: | # this will include new lines to allow paragraphs
-                      GPA of 3.94
+          -------------------------------------------GPA of 3.94
 #description: | # this will include new lines to allow paragraphs
 #Description of qualification
   - title: Projects # Title for the section
