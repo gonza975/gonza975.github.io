@@ -88,7 +88,7 @@ content:
           quote: >
             ![alt text](/images/Texas_Instruments_Logo.png "TI")
           description: | # this will include new lines to allow paragraphs
-          Test Integrated Circuits using a wide range of electronic instrumentation along with automation software that runs on python
+            Test Integrated Circuits using a wide range of electronic instrumentation along with automation software that runs on python
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
