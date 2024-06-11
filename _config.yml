@@ -77,6 +77,18 @@ content:
           --------------------------------------------------------------------------GPA of 3.94
 #description: | # this will include new lines to allow paragraphs
 #Description of qualification
+  - title: Experience
+      layout: list
+      content:
+        - layout: left
+          title: Texas Instruments
+          sub_title: Validation Engineering Intern
+          caption: May 2024 - August 2024
+          link: https://www.ti.com/about-ti/company/overview.html
+          quote: >
+            ![alt text](/images/Texas_Instruments_Logo.png "TI")
+          description: | # this will include new lines to allow paragraphs
+          Test Integrated Circuits using a wide range of electronic instrumentation along with automation software that runs on python
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -97,19 +109,6 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
-  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
