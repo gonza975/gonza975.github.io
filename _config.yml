@@ -87,7 +87,7 @@ content:
         caption: May 2024- present
         link: https://www.ti.com/about-ti/company/overview.html
         
-        images: (/images/Texas_Instruments_Logo.png)
+    images: (/images/Texas_Instruments_Logo.png)
         description: | # this will include new lines to allow paragraphs
           Test Integrated Circuits with analog instrumentation and python programs
   
