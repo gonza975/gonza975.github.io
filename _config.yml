@@ -81,7 +81,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - Images ![alt text](/images/Texas_Instruments_Logo.jpg)
+      - Images ![alt text](/images/Texas_Instruments_Logo.jpg "TI")
       - layout: left
         title: Texas Instruments
         sub_title: Validation Engineering Intern
@@ -91,6 +91,7 @@ content:
     
         description: | # this will include new lines to allow paragraphs
           Test Integrated Circuits with analog instrumentation and python programs
+          ![alt text](/images/Texas_Instruments_Logo.jpg "TI")
   
   - title: A Little More About Me
     layout: text
