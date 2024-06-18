@@ -26,7 +26,7 @@ darkmode: true
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-#linkedin_username: jekyll
+linkedin_username: https://www.linkedin.com/in/rafael-gonzalez-zuniga-64192a2a5/
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -35,9 +35,9 @@ darkmode: true
 
 # Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+- title: Linkedin
+  icon: fa brands fa-linkedin
+  url: https://www.linkedin.com/in/rafael-gonzalez-zuniga-64192a2a5/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
