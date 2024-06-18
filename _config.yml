@@ -91,7 +91,8 @@ content:
     
         description: | # this will include new lines to allow paragraphs
           Test Integrated Circuits with analog instrumentation and python programs
-          ![alt text](/images/Texas_Instruments_Logo.jpg "TI")
+      - layout: left 
+        desctription: T ![alt text](/images/Texas_Instruments_Logo.jpg "TI")
   
   - title: A Little More About Me
     layout: text
