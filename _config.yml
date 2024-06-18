@@ -81,9 +81,9 @@ content:
   - title: Experience
     layout: list
     content:
-      - Images ![alt text](/images/Texas_Instruments_Logo.png)
+      - Images ![alt text](C:\Users\rafae\OneDrive\MSU\Semester #6\CSE232\Extra Credit\gonza975.github.io\images\Texas_Instruments_Logo.png)
       - layout: left
-        title: Texas Instruments
+        title: Texas Instruments ![alt text](/images/landscape-trees.jpg "Trees")
         sub_title: Validation Engineering Intern
         caption: May 2024- present
         link: https://www.ti.com/about-ti/company/overview.html
