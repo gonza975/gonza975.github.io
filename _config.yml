@@ -74,8 +74,9 @@ content:
         quote: >
           -
         description: | # this will include new lines to allow paragraphs
-          --------------------------------------------------------------------------GPA of 3.94
-          -[alt text](/images/MSU_Logo.jpg "MSU")
+                                              - ![alt text](/images/MSU_Logo.jpg "MSU")
+          ----------------------------------------------------------------------------------------------GPA of 3.94
+          
 #description: | # this will include new lines to allow paragraphs
 #Description of qualification
   
