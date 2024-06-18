@@ -71,10 +71,12 @@ content:
         title: Michigan State University
         sub_title: Electrical Engineering, Minor in Computer Science
         caption: 2021-2025
-        quote: >
-          -----------------------------------------------------------2021-2025
+  
         description: | # this will include new lines to allow paragraphs
-          --------------------------------------------------------------------------GPA of 3.94
+                                        -![alt text](/images/MSU_Logo.jpg)
+          ------------------------------------------------------------------------------------------------------GPA of 3.94
+          --------------------------------------------------------------------------------------------------------2021-2025
+
 #description: | # this will include new lines to allow paragraphs
 #Description of qualification
   
@@ -89,11 +91,11 @@ content:
         link: https://www.ti.com/about-ti/company/overview.html
         
         description: | # this will include new lines to allow paragraphs
-          Test Integrated Circuits with analog instrumentation and python programs
+                                  Test Integrated Circuits with analog instrumentation and python programs
 
 
 
-          -![alt text](/images/Texas_Instruments_Logo.jpg)
+                                  -![alt text](/images/Texas_Instruments_Logo.jpg)
 
       
   
