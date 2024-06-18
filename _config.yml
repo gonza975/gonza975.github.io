@@ -81,6 +81,7 @@ content:
   - title: Experience
     layout: list
     content:
+      - Images ![alt text](/images/Texas_Instruments_Logo.png)
       - layout: left
         title: Texas Instruments
         sub_title: Validation Engineering Intern
