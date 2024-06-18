@@ -101,7 +101,7 @@ hr {
 img,
 picture {
   margin: 0;
-  max-width: 100%; }
+  max-width: 50%; }
 
 html {
   box-sizing: border-box; }
@@ -131,10 +131,10 @@ html {
   transition: all 0.3s;
   border-radius: 0;
   background: #DEDEDE;
-  color: #4C4C4C; }
+  color: #477dca; }
   .btn:focus {
     background: #DEDEDE;
-    color: #4C4C4C; }
+    color: #477dca; }
   .btn:hover {
     background: #CCCCCC;
     color: #4C4C4C; }
